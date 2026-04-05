@@ -14,4 +14,4 @@ It uses Data Structures like vector and priority queue.
 - Leaderboard system
 
 ## 🔗 GitHub Repository
-(Add your repo link here)
+(https://github.com/kit25eceaabik-hub/online-quiz-system)
